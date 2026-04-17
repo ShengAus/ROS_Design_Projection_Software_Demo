@@ -43,16 +43,16 @@ The demo is intended to showcase the **product workflow, software interface, and
 ## Demo Screenshots
 
 ### Main design page
-<img src="docs/images/step1_mainpage.png" alt="Main design page" width="900" />
+<img src="docs/images/step1_mainpage.png" alt="Main design page" width="450" />
 
 ### Feedwater settings
-<img src="docs/images/step2_enterwaterinfo.png" alt="Feedwater settings" width="900" />
+<img src="docs/images/step2_enterwaterinfo.png" alt="Feedwater settings" width="450" />
 
 ### System flow diagram
-<img src="docs/images/step3_flowdiagram.png" alt="System flow diagram" width="900" />
+<img src="docs/images/step3_flowdiagram.png" alt="System flow diagram" width="450" />
 
 ### Performance report view
-<img src="docs/images/step5_viewreport.png" alt="Performance report view" width="900" />
+<img src="docs/images/step5_viewreport.png" alt="Performance report view" width="450" />
 
 ---
 
@@ -69,15 +69,15 @@ The demo is intended to showcase the **product workflow, software interface, and
 
 1. Download the compressed package and move it to the desktop.
 
-   <img src="docs/images/install1.png" alt="Compressed package" width="420" />
+  <img src="docs/images/install1.png" alt="Compressed package" width="210" />
 
 2. Extract the compressed package.
 
-   <img src="docs/images/install2.png" alt="Extract package" width="700" />
+  <img src="docs/images/install2.png" alt="Extract package" width="350" />
 
 3. Open the extracted folder and run the executable.
 
-   <img src="docs/images/install3.png" alt="Run executable" width="700" />
+  <img src="docs/images/install3.png" alt="Run executable" width="350" />
 
 > If Windows shows a security prompt, proceed only if you trust the source of the package.
 
@@ -89,18 +89,18 @@ The demo is intended to showcase the **product workflow, software interface, and
 Open **文件 → 新项目** to initialize a new RO design project.
 
 <p float="left">
-  <img src="docs/images/step1_newproj.png" alt="Create new project" width="220" />
-  <img src="docs/images/step1_mainpage.png" alt="Main page" width="700" />
+  <img src="docs/images/step1_newproj.png" alt="Create new project" width="110" />
+  <img src="docs/images/step1_mainpage.png" alt="Main page" width="350" />
 </p>
 
 ### Step 2. Enter feedwater information
 Click **给水设置** to enter feedwater information, including major ions, pH, temperature, and other water-quality indicators.
 
 <p float="left">
-  <img src="docs/images/step2_feedwaterbutton.png" alt="Feedwater button" width="700" />
+  <img src="docs/images/step2_feedwaterbutton.png" alt="Feedwater button" width="350" />
 </p>
 
-<img src="docs/images/step2_enterwaterinfo.png" alt="Feedwater input page" width="900" />
+<img src="docs/images/step2_enterwaterinfo.png" alt="Feedwater input page" width="450" />
 
 ### Step 3. Configure the RO system
 Return to the main page and define the system design, including:
@@ -114,26 +114,26 @@ Return to the main page and define the system design, including:
 - elements per vessel
 - optional recycle / bypass / pressure settings
 
-<img src="docs/images/step3_sysdesign.png" alt="System design settings" width="900" />
+<img src="docs/images/step3_sysdesign.png" alt="System design settings" width="450" />
 
 After configuration, switch to **系统图** to inspect the generated flow diagram.
 
-<img src="docs/images/step3_flowdiagram.png" alt="Flow diagram" width="900" />
+<img src="docs/images/step3_flowdiagram.png" alt="Flow diagram" width="450" />
 
 ### Step 4. Run the calculation
 Click the calculation button to project RO performance.
 
-<img src="docs/images/step4_calbutton.png" alt="Run calculation" width="900" />
+<img src="docs/images/step4_calbutton.png" alt="Run calculation" width="450" />
 
 ### Step 5. Review the results
 Inspect the generated performance report, including system summary, stage summary, design details, scaling-related indicators, and energy-related outputs.
 
-<img src="docs/images/step5_viewreport.png" alt="View report" width="900" />
+<img src="docs/images/step5_viewreport.png" alt="View report" width="450" />
 
 ### Step 6. Export the report
 The report can be exported in multiple formats, including **PDF**, **Excel**, and **Word**.
 
-<img src="docs/images/step6_exportreport.png" alt="Export report" width="900" />
+<img src="docs/images/step6_exportreport.png" alt="Export report" width="450" />
 
 ---
 
@@ -149,14 +149,14 @@ When automatic design is enabled, the user only needs to provide a limited set o
 
 The software then generates a feasible design automatically for supported scenarios.
 
-<img src="docs/images/other_autodesign.png" alt="Automatic design" width="900" />
+<img src="docs/images/other_autodesign.png" alt="Automatic design" width="450" />
 
 ### Save and load projects
 Projects can be saved and loaded for later editing.
 
 <p float="left">
-  <img src="docs/images/other_saveproj.png" alt="Save project" width="330" />
-  <img src="docs/images/other_openproj.png" alt="Open project" width="330" />
+  <img src="docs/images/other_saveproj.png" alt="Save project" width="165" />
+  <img src="docs/images/other_openproj.png" alt="Open project" width="165" />
 </p>
 
 ---
