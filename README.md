@@ -40,7 +40,7 @@ The demo is intended to showcase the **product workflow, software interface, and
 
 ---
 
-## Demo Screenshots
+<!-- ## Demo Screenshots
 
 ### Main design page
 <img src="docs/images/step1_mainpage.png" alt="Main design page" width="450" />
@@ -54,7 +54,7 @@ The demo is intended to showcase the **product workflow, software interface, and
 ### Performance report view
 <img src="docs/images/step5_viewreport.png" alt="Performance report view" width="450" />
 
----
+--- -->
 
 ## Installation (Windows)
 
@@ -174,7 +174,7 @@ The software has been formally registered in China.
 
 ---
 
-## Suggested Repository Structure
+<!-- ## Suggested Repository Structure
 
 ```text
 .
@@ -199,7 +199,7 @@ The software has been formally registered in China.
         └── China Software Patent.png
 ```
 
----
+--- -->
 
 ## Disclaimer
 
