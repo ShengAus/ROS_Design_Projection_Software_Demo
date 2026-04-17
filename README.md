@@ -212,8 +212,7 @@ This repository is a **public-facing demo** of a previously developed software p
 
 It is **not** intended to fully reproduce the original commercial software or disclose proprietary implementation details.
 
----
-
+<!-- 
 ## Contact / Notes
 
 If you are using this repository as part of a portfolio or technical showcase, you may further add:
@@ -221,5 +220,5 @@ If you are using this repository as part of a portfolio or technical showcase, y
 - a short project background section
 - implementation stack (for example: Python, PySide6/Qt, JSON-based project files, report generation pipeline)
 - your own contribution statement
-- a demo video or release package link
+- a demo video or release package link -->
 
